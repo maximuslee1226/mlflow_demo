@@ -20,7 +20,7 @@ Here is the **installation instructions** using Conda environment
   $ mlflow server --backend-store-uri="sqlite:///[path-to-mlflow]/backend/mlflow_data.db" \
                   --default-artifact-root="file://[path-to-mlflow]/artifact_store"
   ```
-  ***Note: make sure that you have four slashes after sqlite***
+  ***Note: make sure that you have three slashes after sqlite***
 > 6. Launch Jupyter notebook from the conda environment by typing
   ```
   $ jupyter notebook
