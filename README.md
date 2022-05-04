@@ -6,7 +6,7 @@ This tutorial was created and tested on the following:
   >> 1.2 Conda version:   4.10.3 (Original Run)
 > 2. Windows 10 ThinkPad P15 Gen1 Intel i7 10850 @ 2.7GHz Memory 32GB DDR4
   >> 2.1 MLFlow version:  1.25.1 (Second Run)
-  >> 2.2 Conda version:   
+  >> 2.2 Conda version:   4.10.3 (Second Run)
 
 Here is the **installation instructions** using Conda environment
 > 1. Make sure that you have the Conda environment installed. In my case, I had Conda 4.10.3 installed in MacOS version specified above
