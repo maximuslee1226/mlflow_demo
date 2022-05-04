@@ -2,12 +2,17 @@
 
 This tutorial was created and tested on the following: 
 > 1. MacOS Monterey version 12.1 Macbook Pro, 2.2 GHz Quad-Core Intel Core i7, Memory 16GB DDR3
-  >> 1.1 MLFlow version:  1.4.0 (Original Run)
-  >>> 1.2 Conda version:   4.10.3 (Original Run)
+  ```
+  > 1.1 MLFlow version:  1.4.0 (Original Run)
+  ```
+  >> 1.2 Conda version:   4.10.3 (Original Run)
+  ```
 > 2. Windows 10 ThinkPad P15 Gen1 Intel i7 10850 @ 2.7GHz Memory 32GB DDR4
-  >> 2.1 MLFlow version:  1.25.1 (Second Run)
-  >>> 2.2 Conda version:   4.10.3 (Second Run)
-
+  ```
+  > 2.1 MLFlow version:  1.25.1 (Second Run)
+  ```
+  > 2.2 Conda version:   4.10.3 (Second Run)
+  ```
 Here is the **installation instructions** using Conda environment
 > 1. Make sure that you have the Conda environment installed. In my case, I had Conda 4.10.3 installed in MacOS version specified above
 > 2. Copy the github repo from the url below from the MacOS terminal where the contents will be saved in the directory called mlflow
